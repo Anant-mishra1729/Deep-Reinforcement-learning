@@ -1,6 +1,4 @@
-# [Deep RL (Hugging Face)](https://huggingface.co/deep-rl-course/unit0/introduction)
-
-This repo contains notebooks used in Deep RL Course
+# Deep Reinforcement Learning
 
 ## [PPO-LunarLander-V2](https://huggingface.co/amish1729/ppo-LunarLander-v2)
 
